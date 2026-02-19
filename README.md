@@ -29,4 +29,5 @@ The result is that edge characters follow contours rather than just approximatin
 
 ## License
 
-This utility is provided as-is for educational and research purposes.
+This utility is provided as-is for educational and research purposes (MIT License).
+
